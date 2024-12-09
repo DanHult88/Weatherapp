@@ -1,5 +1,5 @@
+# Getting Started with Weather App
 
-Weather App
 This project is a simple Weather App built with React that allows users to fetch and display current weather information for a specific city using the OpenWeatherMap API.
 
 Features
